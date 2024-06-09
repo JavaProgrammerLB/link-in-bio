@@ -53,7 +53,9 @@
 ```
 
 ### 使用img引入图片
+```html
 <img src="./a.png" alt="hi" />
+```
 
 Link-in-bio for Craftzdog
 =========================
