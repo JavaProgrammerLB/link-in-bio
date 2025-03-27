@@ -6,7 +6,6 @@ body, html {
 }
 
 body {
-  background: url(./images/bg01.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -95,6 +94,16 @@ ul > li > a {
 }
 
 a {
+  color: black;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  color: black;
+}
+
+footer > a {
   color: black;
   text-decoration: none;
 }
